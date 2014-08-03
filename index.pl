@@ -1,7 +1,7 @@
 #!"C:\xampp\perl\bin\perl.exe" -w
 
 $titulo = 'Instituto Nacional Tecnológico';
-$url = 'http://localhost/inatecs';
+$url = 'http://localhost/inatec';
 
 print "Content-Type: text/html; charset=iso-8859-1\n\n";
 print <<ENDHTML;
